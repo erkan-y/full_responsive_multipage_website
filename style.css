@@ -223,9 +223,13 @@ h3{
     margin-bottom: 5%;
     text-align: left;
 }
+
 .facilities-col img{
     width: 100%;
     border-radius: 10px;
+}
+.facilities-col img:hover{
+    margin: -1px;
 }
 .facilities-col p{
     padding: 0;
