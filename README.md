@@ -1,14 +1,14 @@
 # full_responsive_multipage_website
 ## Full Responsive Multi Page website Design 
 
-❤️ This project was completed thanks to the Easy Tutorials (https://www.youtube.com/watch?v=oYRda7UtuhA). 
+❤️ Thanks to Easy Tutorials for this project.
 <br>
 <br>
-👨‍💻 The main aim of this project is to improve my <b>HTML/CSS skills</b>.
+👨‍💻 The main aim of this project is to improve basic <b>HTML/CSS skills</b>.
 <br><br>
-🎯 Also, basic <b>JavaScript</b> code is embedded to make an action on a small size of web page.
+🎯 Also, basic <b>JavaScript</b> code is embedded to open and close the navigation menu.
 <br><br>
-🔗 To see live version 🎯https://tal58.github.io/Full_responsive_website_design/
+🔗 To see live version 🎯https://erkan-y.github.io/full_responsive_multipage_website/
 <br>
 <center> ⌛ Happy Coding  ✍ </center>
 <br><br>
